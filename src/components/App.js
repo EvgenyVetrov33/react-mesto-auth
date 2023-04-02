@@ -44,7 +44,7 @@ export default function App() {
 			})
 			.catch(() => {
 				setPopupStatus({ image: crossImg, message: 'Что-то пошло не так! Попробуйте еще раз.' });
-				handleInfoTooltip();
+				setInfoTooltip(true);
 			});
 	};
 

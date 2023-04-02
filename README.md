@@ -27,7 +27,7 @@
 
 #### Как установить и запустить проект:
 * Клонировать репозиторий:
-    git clone https://github.com/pnrf/mesto.git
+    git clone https://github.com/EvgenyVetrov33/react-mesto-auth.git
 * Установить зависимости:
     npm install
 * Собрать проект Вебпаком:
